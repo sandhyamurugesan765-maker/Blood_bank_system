@@ -29,3 +29,4 @@ A professional web application for managing blood bank operations including dono
    git clone https://github.com/yourusername/blood-bank-system.git
 
    cd blood-bank-system
+
